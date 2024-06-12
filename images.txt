@@ -1,1 +1,2 @@
 emqx/neuronex
+ubuntu:20.04
