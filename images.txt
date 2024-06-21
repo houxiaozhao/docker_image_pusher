@@ -1,4 +1,1 @@
-emqx/neuronex
-ubuntu:20.04
-missuo/deeplx:v0.8.3
-python:3.9.6
+ghcr.io/puppeteer/puppeteer:latest
