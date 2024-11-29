@@ -1,1 +1,7 @@
 ghcr.io/puppeteer/puppeteer:latest
+minio/minio:latest
+redis:latest
+mongo:latest
+emqx/emqx:latest
+nginx:1.21.1
+minimalcompact/thumbor:6.7.5
